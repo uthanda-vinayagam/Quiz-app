@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["A. Paris", "B. London", "C. Rome", "D. Madrid"],
+        "answer": "A"
+    },
+    {
+        "question": "What is 5 + 7?",
+        "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+        "answer": "C"
+    },
+    {
+        "question": "Which language is used to style web pages?",
+        "options": ["A. HTML", "B. CSS", "C. Python", "D. Java"],
+        "answer": "B"
+    }
+]
